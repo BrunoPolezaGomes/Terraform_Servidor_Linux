@@ -14,7 +14,7 @@ variable "VirtualMachine" {
   default = {
     ## User
     "linux_admin_username"  = "monga"
-    "linux_admin_password"  = "Monga@@2023!"
+    "linux_admin_password"  = "Password"
     ## OS Config
     "VM_Name"               = "DOCKER01"
     "size"                  = "Standard_DS3_v2"
