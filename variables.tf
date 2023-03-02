@@ -4,7 +4,7 @@
 variable "resource_group_name" {
     type = map(string)
   default = {
-    "name"        = "RG-Group"
+    "name"        = "Group"
     "location"    = "brazilsouth"
  }
 }
